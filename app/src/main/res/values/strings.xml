@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Encuentra mi móvil</string>
+    <string name="start">Activar detector</string>
+    <string name="stop">Detener</string>
+    <string name="idle">Detector apagado</string>
+    <string name="listening">Escuchando… ¡aplaude o silba!</string>
+    <string name="starting">Detector iniciándose…</string>
+    <string name="mic_needed">Sin permiso de micrófono la app no puede funcionar.</string>
+    <string name="mic_error">No se pudo abrir el micrófono.</string>
+    <string name="channel_name">Detector de aplausos y silbidos</string>
+    <string name="notif_title">Encuentra mi móvil</string>
+    <string name="notif_text">Detectando aplausos y silbidos.</string>
+    <string name="clap_detected">¡Aplauso detectado! 👏</string>
+    <string name="whistle_detected">¡Silbido detectado! 🎵</string>
+    <string name="hint">Consejos:\n• Al aplaudir o silbar cerca, el móvil sonará y vibrará durante 15 segundos.\n• Mantén la app activa desde el botón y ciérrala solo cuando no la necesites.\n• Si deja de detectar tras un rato, revisa que el ahorro de batería no la esté deteniendo.</string>
+</resources>
